@@ -11,4 +11,4 @@ Designer moving into design engineering. I've run GOW Studio, a design studio in
 
 I work with AI agents (Claude Code and Codex) through branches and pull requests, and I review every change before it gets merged. I care about the details: spacing, typography, states, accessibility and motion.
 
-Portfolio: [oktavio.vercel.app](https://oktavio.vercel.app)
+Portfolio: [oktavio.gowstudio.pro](https://oktavio.gowstudio.pro)
